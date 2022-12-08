@@ -55,7 +55,7 @@
 
 - ### As can be seen from the above models, precision for high-risk had the lowest score in all our machine learning models. However, the sensitivity score(recall) seemed to be above 50% in most cases for low and high-risk loans. Having a high sensitivity rate means that the machine learning model correctly accessed most of the high-risk and low-risk loans. The last model, Easy Ensemble Classifiers, was able to have a recall score of 92% high-risk and 94% low-risk. Across all models, precision for low-risk was 100%. This is important, since LendingClub needs to know how likely the loan is low-risk.
 
-- ### All in all, I would recommend using the Easy Ensemble AdaBoost Classifier, as the preferred machine learning model. It would be better if the precision value would be higher for high-risk, however, the high recall value makes up for it. Furthermore, Easy Ensemble Classifiers also has an accuracy score of 93%, which is the highest score out of all the machine learning models. Although this may lead to more false-positives, it is better to detect high-risk loans, than completely missing them and therefore incurring cost for the company.
+- ### All in all, I would recommend using the Easy Ensemble AdaBoost Classifier, as the preferred machine learning model. It would be better if the precision value would be higher for high-risk, however, the high recall value makes up for it. Furthermore, Easy Ensemble Classifier also has an accuracy score of 93%, which is the highest score out of all the machine learning models. Although this may lead to more false-positives, it is better to detect high-risk loans, than completely missing them and therefore incurring cost for the company.
 
 
 
